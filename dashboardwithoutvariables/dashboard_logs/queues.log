@@ -1,0 +1,25 @@
+# Timestamp: 2026-03-27T15:35:04+01:00
+QUEUE	PEND	RUN	MAX	CAPACITY%	LOAD%	STATUS	PJOBS
+benchmark	0	0	-	N/A	N/A	Open:Active	0
+s_download	0	0	28	0	0	Open:Active	0
+g_short	0	0	-	N/A	N/A	Open:Active	0
+s_short	142	0	112	0	126	Open:Active	142
+s_medium	138	56	112	50	173	Open:Active	138
+g_medium	0	0	-	N/A	N/A	Open:Active	0
+q_jupyter	0	88	-	N/A	N/A	Open:Active	0
+s_long	6	42	112	37	42	Open:Active	6
+s_compress	0	0	36	0	0	Open:Active	0
+p_short	1345	112	-	N/A	N/A	Open:Active	2
+p_sysm	0	0	-	N/A	N/A	Open:Active	0
+g_sysm	0	0	-	N/A	N/A	Open:Active	0
+g_long	245	122	-	N/A	N/A	Open:Active	5
+dataq	0	0	-	N/A	N/A	Open:Active	0
+p_medium	0	5360	-	N/A	N/A	Open:Active	0
+g_grins	0	5	-	N/A	N/A	Open:Active	0
+p_gams	52	106	360	29	43	Open:Active	1
+p_gams_long	24	132	360	36	43	Open:Active	24
+p_long	0	3621	-	N/A	N/A	Open:Active	0
+service	0	0	-	N/A	N/A	Open:Active	0
+q_service1	0	0	12	0	0	Open:Active	0
+text format parsing error in line 2: expected float as value, got ""
+[2026-03-27T15:35:04+01:00] Pushed queue metrics successfully

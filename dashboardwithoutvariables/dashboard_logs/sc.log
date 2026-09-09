@@ -1,0 +1,17 @@
+ServiceClass	Guarantee	Expiration	Users	Apps	Project	Queues
+ SC_sysm	0	none	sysm03 sysm06 sysm07	sysm	R000	p_long p_medium p_short
+ SC_blueadapt	12	31/12/25	ls21622 dp16116	blueadapt	0564	p_long p_medium p_short
+ SC_sps35	0	none	cp1 cp2 as34319 mb16318 ab00920 sp1 sp2	sps35	0490	p_long p_medium p_short
+ SC_c3s2	0	none	cp1 cp2 as34319 mb16318 ab00920 sp1 sp2	c3s2	0490	p_long p_medium p_short
+ SC_spreads2	99	none	cp2 as34319	spreads2	0575	p_long
+ SC_jup	0	none	none	jup	none	q_jupyter
+ SC_gams	2	none	none	none	none	p_gams
+ SC_land	20	31/12/25	lg07622 av27223 de34824	land	0575	p_short p_medium p_long
+ SC_rescue	16	28/02/26	tl28319 dp16116	rescue	0559	p_short p_medium p_long
+ SC_cpm_remhi	20	31/12/25	ac06322 av03024 mr29116	cpm_remhi	0737	p_short p_medium p_long
+ SC_climax	4	31/10/2026	fv08620 jk12824	climax	0610	p_short p_medium p_long
+ SC_SERIAL_sysm	112	none	sysm03 sysm06 sysm07	SERIAL_sysm	R000	s_long s_medium s_short
+ SC_SERIAL_sps35	0	none	cp1 cp2 as34319 mb16318 ab00920 sp1 sp2	SERIAL_sps35	0490	s_long s_medium s_short
+ SC_GPU_grins	12	none	none	none	none	g_grins
+ SC_GPU_dt3	2	30/11/2025	sl32424 nj04221 sc33616	GPU_dt3	R000 0678	g_medium g_long
+[Thu Oct 16 03:30:03 PM CEST 2025] Metrics pushed successfully
